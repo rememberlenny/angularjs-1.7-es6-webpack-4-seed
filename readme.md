@@ -1,6 +1,6 @@
-# AngularJS 1.7 based on ES6 syntax and Webpack 4 with Storybooks.js
+# AngularJS 1.7 based on ES6 syntax and Webpack 4 with Storybook.js
 
-This repo contains webpack 4, AngularJS 1.7, ES6 and Storybooks.js.
+This repo contains webpack 4, AngularJS 1.7, ES6 and Storybook.js.
 
 ## Features
 
@@ -41,4 +41,4 @@ npm test
 
 ## Reference
 
-- Project forked from [dalenguyen](https://github.com/dalenguyen)/[angularjs-webpack-workflow](https://github.com/dalenguyen/angularjs-webpack-workflow)
+Project forked from [dalenguyen](https://github.com/dalenguyen)/[angularjs-webpack-workflow](https://github.com/dalenguyen/angularjs-webpack-workflow)
